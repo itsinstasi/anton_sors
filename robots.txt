@@ -1,5 +1,5 @@
 ﻿User-agent: *
-Sitemap: yasnoznanie.space/sitemap.xml
+Sitemap: https://yasnoznanie.space/sitemap.xml
 Disallow: /main.html
 Disallow: /main
 Disallow: /stories.html
